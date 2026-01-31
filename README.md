@@ -58,7 +58,8 @@
 </head>
 
 <body>
-
+  <img src"images (1).jpeg"
+  width ="200">
   <!-- Menu -->
   <nav>
     <a href="anime.html">Anime</a>
