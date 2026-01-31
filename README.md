@@ -62,7 +62,7 @@
   width ="200">
   <!-- Menu -->
   <nav>
-    <a href="anime.html">Anime</a>
+    <a href="anime/">Anime</a>
     <a href="jogos.html">Jogos</a>
     <a href="opiniao.html">Opinião</a>
   </nav>
