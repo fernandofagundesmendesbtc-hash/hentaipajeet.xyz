@@ -12,6 +12,8 @@
   <title>Sexo anal ponto com </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Dark edits, broken characters, silent suffering.">
+https://disgustingcoach.com/bP3xVT0.PB3_p/vGbcmqV/JnZLDj0V2lNQz/YzxFNjjIki0_LYTsYI3nNcjUEm2XOGT-UR
+    
   <style>
     body {
       margin: 0;
@@ -68,7 +70,6 @@
   <div class="container">
     <h1>Dark Stories</h1>
     <p>Broken characters. Silent suffering. No happy endings.</p>
-    https://disgustingcoach.com/bP3xVT0.PB3_p/vGbcmqV/JnZLDj0V2lNQz/YzxFNjjIki0_LYTsYI3nNcjUEm2XOGT-UR
   </div>
 
 </body>
