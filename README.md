@@ -1,9 +1,9 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
+ <title>Hentai.xyz</title>
+  <style>
         :root {
             --cor-fundo: #1a002b;
             --cor-header: #0f0017;
