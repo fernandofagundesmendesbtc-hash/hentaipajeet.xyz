@@ -3,6 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <title>Hentai.xyz</title>
+  <script src="https://pl28653123.effectivegatecpm.com/24/aa/80/24aa800ef69e2ee3419d5aeca0f315e3.js"></script>
   <script>
   atOptions = {
     'key' : 'bd4d5e3be49e6219d33dde5bf3b7c973',
