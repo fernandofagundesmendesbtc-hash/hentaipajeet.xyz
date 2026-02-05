@@ -1,1 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #1a002b;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
 
+/* TIPOGRAFIA */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+/* LINKS */
+a {
+  color: #a36cff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* HEADER */
+header {
+  background-color: #0f0017;
+  padding: 20px;
+  text-align: center;
+}
